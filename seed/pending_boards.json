@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "name": "Vacancymail",
+    "url": "http://vacancymail.co.zw",
+    "country": "Zimbabwe",
+    "source_query": "zimbabwe job vacancies"
+  },
+  {
+    "name": "Recruitment263",
+    "url": "https://recruitment263.co.zw",
+    "country": "Zimbabwe",
+    "source_query": "zimbabwe job vacancies"
+  },
+  {
+    "name": "Zimbajob",
+    "url": "https://www.zimbajob.com/job-vacancies-search-zimbabwe",
+    "country": "Zimbabwe",
+    "source_query": "zimbabwe job vacancies"
+  },
+  {
+    "name": "Recruitmentmattersafrica",
+    "url": "https://www.recruitmentmattersafrica.com/careers",
+    "country": "Zimbabwe",
+    "source_query": "zimbabwe jobs recruitment"
+  },
+  {
+    "name": "Ihararejobs",
+    "url": "https://ihararejobs.com",
+    "country": "Zimbabwe",
+    "source_query": "harare jobs careers"
+  },
+  {
+    "name": "Zimbojobs",
+    "url": "https://zimbojobs.com",
+    "country": "Zimbabwe",
+    "source_query": "harare jobs careers"
+  },
+  {
+    "name": "Jobsinzimbabwe",
+    "url": "https://jobsinzimbabwe.alljobspo.com/jobs-in-bulawayo?page=2",
+    "country": "Zimbabwe",
+    "source_query": "bulawayo job vacancies"
+  },
+  {
+    "name": "Untalent",
+    "url": "https://untalent.org/jobs/in-anything/contract-all/bulawayo",
+    "country": "Zimbabwe",
+    "source_query": "bulawayo job vacancies"
+  },
+  {
+    "name": "Vacancybox",
+    "url": "https://vacancybox.co.zw",
+    "country": "Zimbabwe",
+    "source_query": "bulawayo job vacancies"
+  }
+]
