@@ -41,7 +41,7 @@ def generate_global_map(html=False):
     map_lines = ["\nJobscr Behemoth Global Map Reach", "-" * 69]
     
     for continent, count in sorted_continents:
-        # INCREASED BAR LENGTH TO 40 BLOCKS
+        # INCREASED BAR LENGTH TO 20 BLOCKS
         bar_length = int((count / max_count) * 20)
         bar = "█" * max(1, bar_length)
         
@@ -51,5 +51,5 @@ def generate_global_map(html=False):
             
         map_lines.append(f"[{continent:<18}] {bar:<40} ({count} leads)")
         
-    # map_lines.append("-" * 69)
+    map_lines.append("\n")
     return "\n".join(map_lines)
